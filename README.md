@@ -1,0 +1,1 @@
+# itg-news-hugo-strapi
